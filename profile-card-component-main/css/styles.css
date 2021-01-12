@@ -1,0 +1,73 @@
+/*not sure how to do the design background.  So using the following colors:
+https://colorhunt.co/palette/219763 as a palette to verify that I am acually changing things */
+body {
+  background-color: #0a043c;
+  position: relative;
+}
+.card {
+  width: 50%;
+  background-color: #ffe3d8;
+  height: 18.75rem;
+  margin: auto;
+}
+
+
+.photo {
+  margin: auto;
+}
+
+.header {
+  padding-bottom: 10px;
+  background-color: #03506f;
+}
+
+.name {
+  background-color: red;
+  font-weight: bolder;
+}
+
+.age {
+  background-color: green;
+
+}
+
+.location {
+  background-color: orange;
+}
+
+.numbers {
+  font-weight: bolder;
+
+}
+
+.label {
+  font-style: italic;
+}
+
+.followers-info {
+position: relative;
+background-color: pink;
+width: 30%;
+}
+
+.likes-info {
+position: relative;
+background-color: yellow;
+width: 30%;
+left: 30%;
+bottom: 69px
+}
+
+.photo-info {
+position: relative;
+background-color: cyan;
+width: 30%;
+left: 60%;
+bottom: 138px;
+}
+
+.attribution {
+  background-color: violet;
+  width: 50%;
+  margin: auto;
+}
