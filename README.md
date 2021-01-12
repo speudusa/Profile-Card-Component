@@ -4,4 +4,5 @@ This is a challenge from Frontend Mentor.  Trying it to help stretch my CSS and 
 
 ### Day 1:  
  * initialize Git repo
- * work building placement of items in the HTML
+ * played with HTML & CSS for alignments
+ * very confused about the background at this moment
